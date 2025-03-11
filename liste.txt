@@ -1,0 +1,5 @@
+# Kitap Tavsiye Platformu Özellikleri
+1- Kitap Yönetimi: Kitapları listeleme, detaylarını görüntüleme, kategori ve yazara göre filtreleme, okuma listesine ekleme.
+2- Admin Paneli: Kitap ekleme, düzenleme, silme; kategori, yazar ve etiket atama; kapak fotoğrafı güncelleme.
+3- Yetkilendirme & Rol Yönetimi: Kullanıcı giriş/çıkış işlemleri, admin yetkileri, normal kullanıcılar için okuma listesi yönetimi.
+4- Modern & Dinamik Arayüz: React & TypeScript kullanımı, Bootstrap ile responsive tasarım, Context API ile kullanıcı yönetimi.

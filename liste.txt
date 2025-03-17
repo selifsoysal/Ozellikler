@@ -4,4 +4,5 @@
 1- Kitap Yönetimi: Kitapları listeleme, detaylarını görüntüleme, kategori ve yazara göre filtreleme, okuma listesine ekleme.
 4- Modern & Dinamik Arayüz: React & TypeScript kullanımı, Bootstrap ile responsive tasarım, Context API ile kullanıcı yönetimi.
 5- Keşif: Yeni yazar, kitap ve kullanıcı listeleri keşfetme.
+6- Elif ortak projeye katkıda bulundu.
 
